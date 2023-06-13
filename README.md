@@ -1,4 +1,4 @@
-# Taller1MauricioOspinaDYP
+# Taller2MauricioOspinaDYP
 
 ### NodeJS is a prerequisite
 
